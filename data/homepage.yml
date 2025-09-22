@@ -149,6 +149,29 @@ client_and_work:
         x: "img/works/wireshark.png"
         _2x: "img/works/wireshark.png"
       is_even: true
+      
+      
+    - title: "AGRUHUB Magdalena - Hydroponic Pineapple Cultivation"
+      description: "For this project we selected pineapple as the main crop. The objective was to use hydroponics to improve the germination process, enhancing nutrient absorption during plant development. This approach seeks to boost agricultural productivity and sustainability in the region."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View Project"
+        URL: "https://www.canva.com/design/DAGxxxxx/edit?utm_content=DAGxxxxx&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+      image:
+        x: "img/works/agrohub.png"
+        _2x: "img/works/agrohub.png"
+      is_even: false
+
+    - title: "Research on Hydroelectric Energy Production"
+      description: "Academic research project focused on analyzing hydroelectric plants as a renewable energy source. The study evaluated efficiency, environmental impacts, and the role of hydroelectric power in supporting sustainable energy transitions in Colombia."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View Project"
+        URL: "https://www.canva.com/design/DAGyyyyy/edit?utm_content=DAGyyyyy&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+      image:
+        x: "img/works/hidro.png"
+        _2x: "img/works/hidro.png"
+      is_even: true
 
 # testimonial
 testimonial:
