@@ -51,8 +51,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/sheyla-margarita-casta%C3%B1eda-rubio-0a1733365/"
   image:
-    x: "img/who-am-i/sheyla.jpg"
-    _2x: "img/who-am-i/sheyla.jpg"
+    x: "img/who-am-i/sheyla.png"
+    _2x: "img/who-am-i/sheyla.png"
 
 # experience
 experience:
@@ -72,14 +72,17 @@ experience:
     - title: "Non-Invasive Glucometer based on Near-Infrared Spectroscopy"
       company: "Academic Project"
       duration: "Circuit design and functional simulation"
+      description: "Designed and simulated an electronic circuit for a non-invasive glucometer that uses near-infrared spectroscopy to estimate glucose concentration. The project focused on signal acquisition, filtering, and calibration strategies to ensure accurate measurement without the need for blood samples."
 
     - title: "EEG Motor Imagery Classification in Stroke Patients"
       company: "Academic Project"
       duration: "Comparison between traditional techniques and deep learning models"
+      description: "Implemented EEG signal classification techniques to analyze motor imagery in stroke patients. Compared traditional machine learning algorithms with modern deep learning approaches to evaluate performance in detecting neural activity patterns related to motor intention, with potential applications in brain-computer interfaces and neurorehabilitation."
 
     - title: "Cybersecurity: Network Analysis with Wireshark"
       company: "Academic Project"
       duration: "Capture and analysis of network traffic"
+      description: "Conducted practical cybersecurity analysis by capturing and inspecting real-time network traffic with Wireshark. Identified communication protocols, detected vulnerabilities, and evaluated risks in network infrastructure. This project developed technical expertise in traffic analysis, intrusion detection, and digital security fundamentals."
 
 # education
 education:
@@ -88,7 +91,23 @@ education:
   items:
     - university: "Universidad del Magdalena"
       year: "Present"
-      degree: "Bachelor in Electronic Engineering"
+      degree: "Professional in Electronic Engineering"
+
+    - university: "Institución Educativa Departamental Antonio Brugés Carmona"
+      year: "2020"
+      degree: "High School Diploma (Bachiller)"
+
+    - university: "Cisco Networking Academy"
+      year: "2024-2025"
+      degree: "Junior Cybersecurity Analyst Career Path"
+
+    - university: "Cisco Networking Academy"
+      year: "2024-2025"
+      degree: "CCNA: Introduction to Networks"
+
+    - university: "Cisco Networking Academy"
+      year: "2024-2025"
+      degree: "Linux Essentials"
 
 # Client & Work
 client_and_work:
@@ -99,36 +118,36 @@ client_and_work:
 
   works:
     - title: "Non-Invasive Glucometer"
-      description: "Electronic circuit design and functional simulation of a non-invasive glucometer based on near-infrared spectroscopy."
+      description: "Electronic circuit design and functional simulation of a non-invasive glucometer based on near-infrared spectroscopy. This project explored the integration of biomedical sensors and signal processing to provide non-invasive glucose monitoring solutions."
       button:
         icon: "icon-arrow-right"
         btnText: "View Project"
-        URL: "#"
+        URL: "https://www.canva.com/design/DAGoJTpvM1U/e42ovAsj3RZtMO-whE64sg/edit?utm_content=DAGoJTpvM1U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
       image:
-        x: "img/works/glucometer.jpg"
-        _2x: "img/works/glucometer.jpg"
+        x: "img/works/glucometer.png"
+        _2x: "img/works/glucometer.png"
       is_even: true
 
     - title: "EEG Signal Classification"
-      description: "Classification of motor imagery EEG signals in stroke patients using traditional techniques and deep learning models."
+      description: "Classification of motor imagery EEG signals in stroke patients using traditional signal processing and modern deep learning models. The project assessed performance differences and highlighted the potential for brain-computer interface applications in rehabilitation."
       button:
         icon: "icon-arrow-right"
         btnText: "View Project"
-        URL: "#"
+        URL: "https://www.canva.com/design/DAGpR8FMiYo/ATZm87-GYp-PrwDnckrRoQ/edit?utm_content=DAGpR8FMiYo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
       image:
-        x: "img/works/eeg.jpg"
-        _2x: "img/works/eeg.jpg"
+        x: "img/works/eeg.png"
+        _2x: "img/works/eeg.png"
       is_even: false
 
     - title: "Cybersecurity with Wireshark"
-      description: "Network traffic analysis using Wireshark for cybersecurity purposes."
+      description: "Practical network security project involving traffic capture, analysis, and vulnerability detection using Wireshark. The project emphasized the importance of monitoring network behavior, understanding protocols, and developing security awareness in digital infrastructures."
       button:
         icon: "icon-arrow-right"
         btnText: "View Project"
-        URL: "#"
+        URL: "https://www.canva.com/design/DAGj0ZqaBDY/LfwtwFyxS5YeIqEWeRw8pg/edit?utm_content=DAGj0ZqaBDY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
       image:
-        x: "img/works/wireshark.jpg"
-        _2x: "img/works/wireshark.jpg"
+        x: "img/works/wireshark.png"
+        _2x: "img/works/wireshark.png"
       is_even: true
 
 # testimonial
@@ -140,22 +159,22 @@ testimonial:
       position: "Professor of Electronic Engineering"
       content: "Sheyla has demonstrated a high level of commitment, discipline, and curiosity in her academic projects, excelling in electronics and applied technologies."
       image:
-        x: "img/testimonials/jhon.jpg"
-        _2x: "img/testimonials/jhon.jpg"
+        x: "img/testimonials/jhon.png"
+        _2x: "img/testimonials/jhon.png"
 
     - name: "Fariel Alemán"
       position: "Electronic Engineering Student"
       content: "Sheyla is a dedicated and collaborative classmate, always willing to share her knowledge and contribute to group projects."
       image:
-        x: "img/testimonials/fariel.jpg"
-        _2x: "img/testimonials/fariel.jpg"
+        x: "img/testimonials/fariel.png"
+        _2x: "img/testimonials/fariel.png"
 
     - name: "Génesis Farelo"
       position: "Electronic Engineering Student"
       content: "Sheyla’s creativity and perseverance inspire her peers. She constantly strives to achieve academic excellence."
       image:
-        x: "img/testimonials/genesis.jpg"
-        _2x: "img/testimonials/genesis.jpg"
+        x: "img/testimonials/genesis.png"
+        _2x: "img/testimonials/genesis.png"
 
 # contact
 contact:
@@ -163,8 +182,8 @@ contact:
   title: "Contact Me"
     
   image:
-    x: "img/who-am-i/sheyla.jpg"
-    _2x: "img/who-am-i/sheyla.jpg"
+    x: "img/who-am-i/sheyla.png"
+    _2x: "img/who-am-i/sheyla.png"
     
   button:
     icon: "icon-mail-fill"
