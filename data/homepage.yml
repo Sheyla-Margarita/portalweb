@@ -1,0 +1,191 @@
+# head
+head:
+  title: "Sheyla Castañeda | Electronic Engineering Portfolio"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Sheyla Margarita Castañeda Rubio."
+  subtitle: "Electronic Engineering Student"
+  description: "I am an Electronic Engineering student at Universidad del Magdalena, passionate about electronics, data analysis, biomedical applications, and cybersecurity. I enjoy developing academic and applied projects that combine theory with practice."
+  image:
+    x: "img/showcase/electronics.gif"
+    _2x: "img/showcase/electronics.gif"
+  imageMobile:
+    x: "img/showcase/electronics.gif"
+    _2x: "img/showcase/electronics.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Me"
+    URL: "mailto:scastaneda@unimagdalena.edu.co"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/sheyla-margarita-casta%C3%B1eda-rubio-0a1733365/"
+
+    - icon: "github"
+      URL: "https://github.com/Sheyla-Margarita"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/sheyyy_margara/"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com/profile.php?id=100086513053320"
+
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    <strong>I am an enthusiastic student of Electronic Engineering.</strong> My passion is to learn, research, and develop technological projects that integrate electronics with fields like biomedical engineering, signal processing, and cybersecurity. 
+    </p>
+    <p class="lead">
+    <strong>My main areas of interest</strong> include analog and digital electronics, biomedical devices, artificial intelligence applications, and network security analysis. 
+    I enjoy working on academic research projects, collaborating with professors, and applying my knowledge to real-world challenges.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/sheyla-margarita-casta%C3%B1eda-rubio-0a1733365/"
+  image:
+    x: "img/who-am-i/sheyla.jpg"
+    _2x: "img/who-am-i/sheyla.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "As an Electronic Engineering student, I have developed academic projects in biomedical signal processing, electronics, and cybersecurity."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "LinkedIn"
+    URL: "https://www.linkedin.com/in/sheyla-margarita-casta%C3%B1eda-rubio-0a1733365/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "docs/MI_HOJA_DE_VIDA.pdf"
+
+  items:
+    - title: "Non-Invasive Glucometer based on Near-Infrared Spectroscopy"
+      company: "Academic Project"
+      duration: "Circuit design and functional simulation"
+
+    - title: "EEG Motor Imagery Classification in Stroke Patients"
+      company: "Academic Project"
+      duration: "Comparison between traditional techniques and deep learning models"
+
+    - title: "Cybersecurity: Network Analysis with Wireshark"
+      company: "Academic Project"
+      duration: "Capture and analysis of network traffic"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Universidad del Magdalena"
+      year: "Present"
+      degree: "Bachelor in Electronic Engineering"
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+
+  works:
+    - title: "Non-Invasive Glucometer"
+      description: "Electronic circuit design and functional simulation of a non-invasive glucometer based on near-infrared spectroscopy."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View Project"
+        URL: "#"
+      image:
+        x: "img/works/glucometer.jpg"
+        _2x: "img/works/glucometer.jpg"
+      is_even: true
+
+    - title: "EEG Signal Classification"
+      description: "Classification of motor imagery EEG signals in stroke patients using traditional techniques and deep learning models."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View Project"
+        URL: "#"
+      image:
+        x: "img/works/eeg.jpg"
+        _2x: "img/works/eeg.jpg"
+      is_even: false
+
+    - title: "Cybersecurity with Wireshark"
+      description: "Network traffic analysis using Wireshark for cybersecurity purposes."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View Project"
+        URL: "#"
+      image:
+        x: "img/works/wireshark.jpg"
+        _2x: "img/works/wireshark.jpg"
+      is_even: true
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Testimonials"
+  items:
+    - name: "Dr. Jhon Taborda"
+      position: "Professor of Electronic Engineering"
+      content: "Sheyla has demonstrated a high level of commitment, discipline, and curiosity in her academic projects, excelling in electronics and applied technologies."
+      image:
+        x: "img/testimonials/jhon.jpg"
+        _2x: "img/testimonials/jhon.jpg"
+
+    - name: "Fariel Alemán"
+      position: "Electronic Engineering Student"
+      content: "Sheyla is a dedicated and collaborative classmate, always willing to share her knowledge and contribute to group projects."
+      image:
+        x: "img/testimonials/fariel.jpg"
+        _2x: "img/testimonials/fariel.jpg"
+
+    - name: "Génesis Farelo"
+      position: "Electronic Engineering Student"
+      content: "Sheyla’s creativity and perseverance inspire her peers. She constantly strives to achieve academic excellence."
+      image:
+        x: "img/testimonials/genesis.jpg"
+        _2x: "img/testimonials/genesis.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact Me"
+    
+  image:
+    x: "img/who-am-i/sheyla.jpg"
+    _2x: "img/who-am-i/sheyla.jpg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:scastaneda@unimagdalena.edu.co'
+    
+  phone:
+    title: "Phone Number"
+    number: "(+57)3236656329"
+  email:
+    title: "Email"
+    email: '<a href="mailto:scastaneda@unimagdalena.edu.co">scastaneda@unimagdalena.edu.co</a>'
+  address:
+    title: "Address"
+    address: "Santa Marta, Magdalena, Colombia"
+  
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
