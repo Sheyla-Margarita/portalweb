@@ -59,7 +59,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Descarga mi hoja de vida"
-    URL: "docs/HV_Andrea_Fonseca.pdf"
+    URL: "cv/HV_Andrea_Fonseca.pdf"
 
   items:
     - title: "Desarrollo Web: front-end con ReactJS, NextJS, HTML y CSS"
