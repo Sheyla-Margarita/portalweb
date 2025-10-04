@@ -3,15 +3,15 @@ languageCode: en-us
 theme: raditian-free-hugo-theme-data-science
 params:
   footer:
-    copyright: © Sheyla Castañeda Rubio. All rights reserved.
+    copyright: © Andrea Fonseca Guerrero. All rights reserved.
     site_logo:
       _2x: img/general/business-science-logo.png
       alt: Design & Code - Business Science
       x: img/general/business-science-logo.png
   googleAnalyticsID: ''
   logo:
-    text1: Sheyla
-    text2: Castañeda Rubio
+    text1: Andrea
+    text2: Fonseca
   plugins:
     css:
       - URL: css/main.css

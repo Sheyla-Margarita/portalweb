@@ -1,13 +1,13 @@
 # head
 head:
-  title: "Sheyla Castañeda | Electronic Engineering Portfolio"
+  title: "Andrea Fonseca | Estudiante de Ingeniería Electrónica"
 
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Sheyla Margarita Castañeda Rubio."
-  subtitle: "Electronic Engineering Student"
-  description: "I am an Electronic Engineering student at Universidad del Magdalena, passionate about electronics, data analysis, biomedical applications, and cybersecurity. I enjoy developing academic and applied projects that combine theory with practice."
+  title: "Hola, soy Andrea Carolina Fonseca Guerrero."
+  subtitle: "Estudiante de Ingeniería Electrónica"
+  description: "Me apasiona crear soluciones que ofrezcan experiencias de usuario memorables y funcionales, liderar equipos hacia objetivos claros y aportar una visión estratégica en el desarrollo de software."
   image:
     x: "img/showcase/electronics.gif"
     _2x: "img/showcase/electronics.gif"
@@ -18,38 +18,31 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact Me"
-    URL: "mailto:scastaneda@unimagdalena.edu.co"
+    URL: "mailto:andreafonseca2001@hotmail.com"
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/sheyla-margarita-casta%C3%B1eda-rubio-0a1733365/"
-
-    - icon: "github"
-      URL: "https://github.com/Sheyla-Margarita"
-
-    - icon: "instagram"
-      URL: "https://www.instagram.com/sheyyy_margara/"
+      URL: "https://www.linkedin.com/in/andrea-fonseca-guerrero/"
 
     - icon: "facebook"
-      URL: "https://www.facebook.com/profile.php?id=100086513053320"
-
+      URL: "https://www.facebook.com/andreacarolina.fonsecaguerrero/"
 
 # about
 about:
   enable: true
-  title: "Who am I?"
-  content: 
+  title: "¿Quién soy?"
+  content: |
     <p class="lead">
-    <strong>I am an enthusiastic student of Electronic Engineering.</strong> My passion is to learn, research, and develop technological projects that integrate electronics with fields like biomedical engineering, signal processing, and cybersecurity. 
+    <strong>Soy una apasionada estudiante de Ingeniería Electrónica.</strong> Soy Desarrolladora Web, Diseñadora UX y Software Product Manager.
+    Combino conocimientos técnicos, creatividad y liderazgo para diseñar, construir y gestionar productos digitales innovadores. 
     </p>
     <p class="lead">
-    <strong>My main areas of interest</strong> include analog and digital electronics, biomedical devices, artificial intelligence applications, and network security analysis. 
-    I enjoy working on academic research projects, collaborating with professors, and applying my knowledge to real-world challenges.
+    <strong>Mis áreas de interés incluyen</strong> electrónica analógica y digital, aplicaciones de inteligencia artificial y análisis estadísticos. Disfruto trabajando en proyectos de investigación académica, colaborando con profesores y aplicando mis conocimientos a desafíos del mundo real.
     </p>
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com/in/sheyla-margarita-casta%C3%B1eda-rubio-0a1733365/"
+    URL: "https://www.linkedin.com/in/andrea-fonseca-guerrero/"
   image:
     x: "img/who-am-i/sheyla.png"
     _2x: "img/who-am-i/sheyla.png"
@@ -57,57 +50,45 @@ about:
 # experience
 experience:
   enable: true
-  title: "Experience"
-  description: "As an Electronic Engineering student, I have developed academic projects in biomedical signal processing, electronics, and cybersecurity."
+  title: "Experiencia"
+  description: "Como estudiante de Ingeniería Electrónica, he tenido la oportunidad de trabajar en desarrollo web, gestión de proyectos y optimización de interfaces digitales, además de realizar investigación en diseño de experiencias de usuario."
   button:
     icon: "icon-linkedin-fill"
     btnText: "LinkedIn"
-    URL: "https://www.linkedin.com/in/sheyla-margarita-casta%C3%B1eda-rubio-0a1733365/"
+    URL: "https://www.linkedin.com/in/andrea-fonseca-guerrero/"
   button2:
     icon: "icon-profile-fill"
-    btnText: "Download My Resume"
-    URL: "docs/MI_HOJA_DE_VIDA.pdf"
+    btnText: "Descarga mi hoja de vida"
+    URL: "docs/HV_Andrea_Fonseca.pdf"
 
   items:
-    - title: "Non-Invasive Glucometer based on Near-Infrared Spectroscopy"
+    - title: "Desarrollo Web: front-end con ReactJS, NextJS, HTML y CSS"
       company: "Academic Project"
-      duration: "Circuit design and functional simulation"
-      description: "Designed and simulated an electronic circuit for a non-invasive glucometer that uses near-infrared spectroscopy to estimate glucose concentration. The project focused on signal acquisition, filtering, and calibration strategies to ensure accurate measurement without the need for blood samples."
+      duration: "Proyectos en desarrollo nativo y optimización de interfaces digitales."
+      description: "Conocimientos básicos de SEO y buenas prácticas de diseño web."
 
-    - title: "EEG Motor Imagery Classification in Stroke Patients"
+    - title: "Diseño UX"
       company: "Academic Project"
-      duration: "Comparison between traditional techniques and deep learning models"
-      description: "Implemented EEG signal classification techniques to analyze motor imagery in stroke patients. Compared traditional machine learning algorithms with modern deep learning approaches to evaluate performance in detecting neural activity patterns related to motor intention, with potential applications in brain-computer interfaces and neurorehabilitation."
+      duration: "Investigación de usuarios y pruebas de usabilidad."
+      description: "Diseño de wireframes, prototipos y flujos de usuario. Creación de interfaces alineadas con accesibilidad, usabilidad y tendencias modernas de UX/UI."
 
-    - title: "Cybersecurity: Network Analysis with Wireshark"
+    - title: "Software Product Manager"
       company: "Academic Project"
-      duration: "Capture and analysis of network traffic"
-      description: "Conducted practical cybersecurity analysis by capturing and inspecting real-time network traffic with Wireshark. Identified communication protocols, detected vulnerabilities, and evaluated risks in network infrastructure. This project developed technical expertise in traffic analysis, intrusion detection, and digital security fundamentals."
+      duration: "Liderazgo de proyectos bajo SCRUM."
+      description: "Gestión de ciclo de vida completo del software, coordinación con stakeholders, priorización de tareas y uso de Jira para seguimiento."
 
 # education
 education:
   enable: true
-  title: "Education"
+  title: "Educación"
   items:
     - university: "Universidad del Magdalena"
-      year: "Present"
-      degree: "Professional in Electronic Engineering"
+      year: "Presente"
+      degree: "Profesional en Ingeniería Electrónica"
 
-    - university: "Institución Educativa Departamental Antonio Brugés Carmona"
-      year: "2020"
-      degree: "High School Diploma (Bachiller)"
-
-    - university: "Cisco Networking Academy"
-      year: "2024-2025"
-      degree: "Junior Cybersecurity Analyst Career Path"
-
-    - university: "Cisco Networking Academy"
-      year: "2024-2025"
-      degree: "CCNA: Introduction to Networks"
-
-    - university: "Cisco Networking Academy"
-      year: "2024-2025"
-      degree: "Linux Essentials"
+    - university: "Institución Educativa Departamental Normal Superior María Auxiliadora"
+      year: "2018"
+      degree: "Bachiller Normalista"
 
 # Client & Work
 client_and_work:
@@ -117,60 +98,37 @@ client_and_work:
   enable_clients: false
 
   works:
-    - title: "Non-Invasive Glucometer"
-      description: "Electronic circuit design and functional simulation of a non-invasive glucometer based on near-infrared spectroscopy. This project explored the integration of biomedical sensors and signal processing to provide non-invasive glucose monitoring solutions."
+    - title: "LONGINGHOUSE"
+      description: "Aplicación móvil para estudiantes universitarios y propietarios de viviendas, centralizando la búsqueda, reserva y alquiler de alojamiento durante el semestre académico."
       button:
         icon: "icon-arrow-right"
         btnText: "View Project"
-        URL: "https://www.canva.com/design/DAGoJTpvM1U/e42ovAsj3RZtMO-whE64sg/edit?utm_content=DAGoJTpvM1U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+        URL: "https://www.canva.com/design/DAGGTx6v-fs/obyd3B6tZREV2dmhhB0Vmg/edit?utm_content=DAGGTx6v-fs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
       image:
-        x: "img/works/glucometer.png"
-        _2x: "img/works/glucometer.png"
+        x: "img/works/redimensionada_1.png"
+        _2x: "img/works/redimensionada_1.png"
       is_even: true
 
-    - title: "EEG Signal Classification"
-      description: "Classification of motor imagery EEG signals in stroke patients using traditional signal processing and modern deep learning models. The project assessed performance differences and highlighted the potential for brain-computer interface applications in rehabilitation."
+    - title: "Circuitos amplificadores de señales AM"
+      description: "Diseño de circuitos para amplificar señales AM y excitar una carga donde se pueda escuchar la señal de radio seleccionada."
       button:
         icon: "icon-arrow-right"
         btnText: "View Project"
-        URL: "https://www.canva.com/design/DAGpR8FMiYo/ATZm87-GYp-PrwDnckrRoQ/edit?utm_content=DAGpR8FMiYo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+        URL: "https://www.canva.com/design/DAGRiqPKs7M/qO67lZdueOXATeVjjH7qLw/edit?utm_content=DAGRiqPKs7M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
       image:
-        x: "img/works/eeg.png"
-        _2x: "img/works/eeg.png"
+        x: "img/works/redimensionada_3.png"
+        _2x: "img/works/redimensionada_3.png"
       is_even: false
 
-    - title: "Cybersecurity with Wireshark"
-      description: "Practical network security project involving traffic capture, analysis, and vulnerability detection using Wireshark. The project emphasized the importance of monitoring network behavior, understanding protocols, and developing security awareness in digital infrastructures."
+    - title: "FUNDAPROBRIC"
+      description: "Organización enfocada en bienestar social, asistencia a la niñez, adolescencia, juventud y adulto mayor en condiciones vulnerables."
       button:
         icon: "icon-arrow-right"
         btnText: "View Project"
-        URL: "https://www.canva.com/design/DAGj0ZqaBDY/LfwtwFyxS5YeIqEWeRw8pg/edit?utm_content=DAGj0ZqaBDY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+        URL: "https://www.canva.com/design/DAFy3LlOj9I/Cw94pP9vg7jW0kWyNSq0dg/edit?utm_content=DAFy3LlOj9I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
       image:
-        x: "img/works/wireshark.png"
-        _2x: "img/works/wireshark.png"
-      is_even: true
-      
-      
-    - title: "AGRUHUB Magdalena - Hydroponic Pineapple Cultivation"
-      description: "For this project we selected pineapple as the main crop. The objective was to use hydroponics to improve the germination process, enhancing nutrient absorption during plant development. This approach seeks to boost agricultural productivity and sustainability in the region."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "View Project"
-        URL: "https://www.canva.com/design/DAGgCIOIlZY/6udd_Aq6xgNEFZtiXDpXrg/edit?utm_content=DAGgCIOIlZY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
-      image:
-        x: "img/works/agrohub.png"
-        _2x: "img/works/agrohub.png"
-      is_even: false
-
-    - title: "Research on Hydroelectric Energy Production"
-      description: "Academic research project focused on analyzing hydroelectric plants as a renewable energy source. The study evaluated efficiency, environmental impacts, and the role of hydroelectric power in supporting sustainable energy transitions in Colombia."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "View Project"
-        URL: "https://www.canva.com/design/DAGnh4kDa1w/zKLHOQLEmQxnVZyzbpwVtA/edit?utm_content=DAGnh4kDa1w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
-      image:
-        x: "img/works/hidro.png"
-        _2x: "img/works/hidro.png"
+        x: "img/works/redimensionada_2.png"
+        _2x: "img/works/redimensionada_2.png"
       is_even: true
 
 # testimonial
@@ -178,31 +136,31 @@ testimonial:
   enable: true
   title: "Testimonials"
   items:
-    - name: "Dr. Jhon Taborda"
-      position: "Professor of Electronic Engineering"
-      content: "Sheyla has demonstrated a high level of commitment, discipline, and curiosity in her academic projects, excelling in electronics and applied technologies."
+    - name: "Dr. Luis Leonador Camargo"
+      position: "Docente de planta y Doctor en Telecomunicaciones"
+      content: "Andrea ha demostrado destacables habilidades en la interpretación de sistemas complejos relacionados con la electrónica digital, análoga y de telecomunicaciones."
       image:
-        x: "img/testimonials/jhon.png"
-        _2x: "img/testimonials/jhon.png"
+        x: "img/testimonials/circular_2.png"
+        _2x: "img/testimonials/circular_2.png"
 
-    - name: "Fariel Alemán"
-      position: "Electronic Engineering Student"
-      content: "Sheyla is a dedicated and collaborative classmate, always willing to share her knowledge and contribute to group projects."
+    - name: "PhD. Pablo Vera Salazar"
+      position: "Rector de la Universidad del Magdalena"
+      content: "Andrea es dedicada y colaboradora, siempre dispuesta a compartir sus conocimientos y contribuir a proyectos."
       image:
-        x: "img/testimonials/fariel.png"
-        _2x: "img/testimonials/fariel.png"
+        x: "img/testimonials/circular_1.png"
+        _2x: "img/testimonials/circular_1.png"
 
-    - name: "Génesis Farelo"
-      position: "Electronic Engineering Student"
-      content: "Sheyla’s creativity and perseverance inspire her peers. She constantly strives to achieve academic excellence."
+    - name: "Ing. Enika Pinto Moya"
+      position: "Coordinadora del programa de Ing. Electrónica"
+      content: "La creatividad y la perseverancia de Andrea inspiran a sus compañeros. Se esfuerza constantemente por alcanzar la excelencia académica."
       image:
-        x: "img/testimonials/genesis.png"
-        _2x: "img/testimonials/genesis.png"
+        x: "img/testimonials/circular_3.png"
+        _2x: "img/testimonials/circular_3.png"
 
 # contact
 contact:
   enable: true
-  title: "Contact Me"
+  title: "Contáctame"
     
   image:
     x: "img/who-am-i/sheyla.png"
@@ -211,18 +169,17 @@ contact:
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
-    btnAction: 'mailto:scastaneda@unimagdalena.edu.co'
+    btnAction: 'mailto:andreafonseca2001@hotmail.com'
     
   phone:
     title: "Phone Number"
-    number: "(+57)3236656329"
+    number: "(+57)3023975974"
   email:
     title: "Email"
-    email: '<a href="mailto:scastaneda@unimagdalena.edu.co">scastaneda@unimagdalena.edu.co</a>'
+    email: '<a href="mailto:andreafonseca2001@hotmail.com">andreafonseca2001@hotmail.com</a>'
   address:
-    title: "Address"
+    title: "Dirección"
     address: "Santa Marta, Magdalena, Colombia"
-  
 
 # newsletter
 newsletter:
